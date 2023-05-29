@@ -1,0 +1,5 @@
+For resetting everything, copy contents of json file from campus iitb website using dev tools network
+Paste it into notepad file and save as jobs.json (replace this one)
+Then run one_time.py to rewrite res.json
+Finally, pip install -r requirements.txt and then run index.py
+
